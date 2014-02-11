@@ -1,0 +1,27 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "underscore-keypath": {},
+      "bootstrap-3": {},
+      "iron-router": {}
+    },
+    "packages": {
+      "underscore-keypath": {
+        "git": "https://github.com/jeeeyul/underscore-keypath.git",
+        "tag": "v0.0.11",
+        "commit": "6d7ea0b1561f30e576791ffe3d746ac18ba9800c"
+      },
+      "bootstrap-3": {
+        "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
+        "tag": "v3.1.0-1",
+        "commit": "329dccb08bfc18c635676dea600ac9953162cda9"
+      },
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router.git",
+        "tag": "v0.6.2",
+        "commit": "ce56e58b45624dce992490f3a1c10f10d3948bae"
+      }
+    }
+  }
+}
