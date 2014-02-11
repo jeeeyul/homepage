@@ -1,7 +1,10 @@
 {
-  "packages": {
-    "underscore-keypath": {},
-    "bootstrap-3": {},
-    "iron-router": {}
-  }
+	"packages": {
+		"underscore-keypath": {},
+		"bootstrap-3": {},
+		"iron-router": {
+			"git" : "https://github.com/EventedMind/iron-router.git",
+			"branch" : "shark"
+		}
+	}
 }
