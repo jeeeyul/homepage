@@ -1,15 +1,7 @@
 {
   "meteor": {},
   "dependencies": {
-    "basePackages": {
-      "blade": {}
-    },
-    "packages": {
-      "blade": {
-        "git": "https://github.com/bminer/meteor-blade.git",
-        "tag": "v3.2.6meteor2",
-        "commit": "28a9f9bf121c3410ab70138ba39862468bfe836b"
-      }
-    }
+    "basePackages": {},
+    "packages": {}
   }
 }
