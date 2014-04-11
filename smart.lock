@@ -4,26 +4,28 @@
     "basePackages": {
       "underscore-keypath": {},
       "bootstrap-3": {},
-      "iron-router": {
-        "git": "https://github.com/EventedMind/iron-router.git",
-        "branch": "shark"
-      }
+      "iron-router": {}
     },
     "packages": {
       "underscore-keypath": {
         "git": "https://github.com/jeeeyul/underscore-keypath.git",
-        "tag": "v0.0.11",
-        "commit": "6d7ea0b1561f30e576791ffe3d746ac18ba9800c"
+        "tag": "v0.0.15",
+        "commit": "d3cdbd8a5bcf330f80b6287524aa85ded88a2707"
       },
       "bootstrap-3": {
         "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
-        "tag": "v3.1.0-1",
-        "commit": "329dccb08bfc18c635676dea600ac9953162cda9"
+        "tag": "v3.1.1-1",
+        "commit": "63dd38968828bb8963636df93e9a1c45e2dfe67e"
       },
       "iron-router": {
         "git": "https://github.com/EventedMind/iron-router.git",
-        "branch": "shark",
-        "commit": "4f55d0acc293abb4a9492229e8d2be0ec0e176c1"
+        "tag": "v0.7.0",
+        "commit": "05f34bc48c4cad9fdaa366c1ddcabe6980232ece"
+      },
+      "blaze-layout": {
+        "git": "https://github.com/EventedMind/blaze-layout.git",
+        "tag": "v0.2.2",
+        "commit": "8bc53798fe5965669ae67c72f91829fcfdceabfd"
       }
     }
   }
