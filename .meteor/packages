@@ -9,3 +9,5 @@ insecure
 underscore-keypath
 bootstrap-3
 iron-router
+jade
+less

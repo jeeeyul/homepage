@@ -6,3 +6,11 @@ template(name="home")
 				span Under Construction!
 		.panel-body
 			p I'm testing meteor 0.8 capabilities now.
+	.panel.panel-default
+		.panel-heading.text-right
+			a#clear-button.btn.btn-danger Clear
+		svg#canvas(version="1.1", width="100%", height="480")
+			each strokes
+				polyline(points=points, stroke=stroke, fill="transparent", stroke-width="2")
+		.panel-footer
+			p hello

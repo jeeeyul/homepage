@@ -2,6 +2,7 @@
   "packages": {
     "underscore-keypath": {},
     "bootstrap-3": {},
-    "iron-router": {}
+    "iron-router": {},
+    "jade": {}
   }
 }
