@@ -1,4 +1,10 @@
 template(name="header")
 	nav.navbar.navbar-inverse.navbar-fixed-top
-		.container-fluid
+		.container
 			.navbar-header
+			.navbar-collapse.collapse
+				.navbar-form.navbar-right
+					.form-group
+						a.btn.btn-default.form-control
+							+loginButtons
+

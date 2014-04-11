@@ -11,3 +11,8 @@ bootstrap-3
 iron-router
 jade
 less
+accounts-base
+accounts-google
+accounts-github
+accounts-facebook
+accounts-ui
